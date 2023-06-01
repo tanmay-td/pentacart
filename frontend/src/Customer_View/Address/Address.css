@@ -1,0 +1,19 @@
+.address-heading{
+    border-bottom: 2px solid pink;
+    padding-bottom: 10px;
+}
+
+.main-address-form-container{
+    border-radius: 20px;
+    border: 1px solid pink;
+}
+
+.add-address-button{
+    transition: 1s all;
+    border: 1px solid green;
+}
+
+.add-address-button:hover{
+    box-shadow: 2px 2px 3px pink;
+    background-color: pink;
+}
