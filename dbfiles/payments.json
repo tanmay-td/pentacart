@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "63f73bbff7ea134a68b53a6f"
+  },
+  "payment_type": "visa",
+  "transaction_id": "afbahsbay",
+  "payment_status": "done",
+  "customer_id": {
+    "$oid": "63f6faafecce0c148540fe79"
+  },
+  "order_id": {
+    "$oid": "63f6faafecce0c148540fe79"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f77a1c6ee2508361c211b2"
+  },
+  "customer_id": {
+    "$oid": "63f6fb69ecce0c148540fe7c"
+  },
+  "__v": 0
+}]

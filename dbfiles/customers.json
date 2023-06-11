@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "641937b6b8953f22a7f00875"
+  },
+  "name": "admin",
+  "phone": {
+    "$numberLong": "7744879982"
+  },
+  "email": "admin@gmail.com",
+  "password": "Admin1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6419396eb8953f22a7f00877"
+  },
+  "name": "Tanmay",
+  "phone": {
+    "$numberLong": "7744879982"
+  },
+  "email": "tanmaytd@gmail.com",
+  "password": "Tanmaytd5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641a97b89ed2c99dc702609a"
+  },
+  "name": "tanmaytd",
+  "phone": {
+    "$numberLong": "7744859583"
+  },
+  "email": "tanmaytd2@gmail.com",
+  "password": "Tanmaytd5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64245fca5e0cb5100b3635bb"
+  },
+  "name": "Palash",
+  "phone": {
+    "$numberLong": "7744879982"
+  },
+  "email": "palash@gmail.com",
+  "password": "Palash1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645505cd24672752aaf14aa1"
+  },
+  "name": "Tanmay",
+  "phone": {
+    "$numberLong": "7744879989"
+  },
+  "email": "tanmay1234@gmail.com",
+  "password": "Admin@5",
+  "__v": 0
+}]

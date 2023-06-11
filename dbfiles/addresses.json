@@ -1,0 +1,152 @@
+[{
+  "_id": {
+    "$oid": "64120cf89f91f68a4c55a065"
+  },
+  "pincode": 67888,
+  "houseno": 789,
+  "area": "karve nagar",
+  "city": "pune",
+  "state": "Mahaafuiasbs",
+  "country": "India",
+  "customer_id": {
+    "$oid": "64103e380ba14bef5bdbf743"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6412de71563aa591f48a276f"
+  },
+  "pincode": 8687878,
+  "houseno": 789,
+  "area": "warje",
+  "city": "pune",
+  "state": "aUXGSAGSAHUSAH",
+  "country": "iNDIA",
+  "customer_id": {
+    "$oid": "64103e380ba14bef5bdbf743"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641446fe41f609ecd7b5f494"
+  },
+  "pincode": 67888,
+  "houseno": 789,
+  "area": "karve nagar",
+  "city": "pune",
+  "state": "aUXGSAGSAHUSAH",
+  "country": "iNDIA",
+  "customer_id": {
+    "$oid": "63f6faafecce0c148540fe79"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6417dfa12ec83d21a1a9b1c4"
+  },
+  "pincode": 67888,
+  "houseno": 566,
+  "area": "Pune",
+  "city": "pune",
+  "state": "pune",
+  "country": "India",
+  "customer_id": {
+    "$oid": "64103e380ba14bef5bdbf743"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64193eeeb8953f22a7f0090f"
+  },
+  "pincode": 67888,
+  "houseno": 789,
+  "area": "karve nagar",
+  "city": "pune",
+  "state": "Mahaafuiasbs",
+  "country": "India",
+  "customer_id": {
+    "$oid": "641937b6b8953f22a7f00875"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64196085b8953f22a7f009f6"
+  },
+  "pincode": 78993,
+  "houseno": 420,
+  "area": "company ke side mein",
+  "city": "pune",
+  "state": "mahaabdsbsjsn",
+  "country": "India",
+  "customer_id": {
+    "$oid": "641937b6b8953f22a7f00875"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641a980e9ed2c99dc70260bb"
+  },
+  "pincode": 67888,
+  "houseno": 789,
+  "area": "karve nagar",
+  "city": "pune",
+  "state": "Mahaafuiasbs",
+  "country": "India",
+  "customer_id": {
+    "$oid": "641a97b89ed2c99dc702609a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d1d35b66e8ca517da0a7b"
+  },
+  "pincode": 67888,
+  "houseno": 789,
+  "area": "Shankar nagar 2",
+  "city": "pune",
+  "state": "Mahaafuiasbs",
+  "country": "India",
+  "customer_id": {
+    "$oid": "641937b6b8953f22a7f00875"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6455066624672752aaf14af2"
+  },
+  "pincode": 67888,
+  "houseno": 789,
+  "area": "karve nagar",
+  "city": "pune",
+  "state": "Maharashtra",
+  "country": "India",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64550a3865cc8bc6492863a5"
+  },
+  "pincode": 132323,
+  "houseno": 789,
+  "area": "Pune",
+  "city": "pune",
+  "state": "Maharashtra",
+  "country": "India",
+  "customer_id": {
+    "$oid": "645505cd24672752aaf14aa1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646bb7daf8804385b807fdc9"
+  },
+  "pincode": 132323,
+  "houseno": 789,
+  "area": "karve nagar",
+  "city": "pune",
+  "state": "Maharashtra",
+  "country": "India",
+  "customer_id": {
+    "$oid": "6419396eb8953f22a7f00877"
+  },
+  "__v": 0
+}]

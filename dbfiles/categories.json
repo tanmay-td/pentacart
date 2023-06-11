@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "640c4bd22027b78d405b783f"
+  },
+  "name": "Mens Clothing",
+  "des": "This Category Show Men Fashion",
+  "url": "https://img.freepik.com/premium-vector/men-s-fashion-store-logo-design-template-vector-illustration_500223-485.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640c4c082027b78d405b7841"
+  },
+  "name": "Womens Clothing",
+  "des": "This Category Show Womens Fashion",
+  "url": "data:image/png;base64,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",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640c4cac2027b78d405b7843"
+  },
+  "name": "Phone",
+  "des": "This Category Show All the Phones",
+  "url": "https://www.dnpindia.in/wp-content/uploads/2022/09/ezgif-3-ba1d918a96.webp",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640dab6f8aff42cfd4d69d6f"
+  },
+  "name": "Kids ",
+  "des": "Kids Products",
+  "url": "https://img.freepik.com/free-vector/many-kids-climbing-up-rope_1308-2794.jpg?w=1060&t=st=1679514671~exp=1679515271~hmac=183701b14e8b5476ece5e0c0ac92f84d5485a59cea582257c282bb05a400ce90",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641b5d4c9ed2c99dc70270bf"
+  },
+  "name": "Sneakers",
+  "des": "sneakers ",
+  "url": "https://cdn-images.farfetch-contents.com/13/15/76/97/13157697_21516295_600.jpg",
+  "__v": 0
+}]
